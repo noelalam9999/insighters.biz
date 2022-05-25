@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": {
+      "first": "Propel Your Brand",
+      "second": "With Insighters"
+    },
+    "content": " ",
+    "image": "/img/slid/01.jpg"
+  },
+  {
+    "id": 2,
+    "title": {
+      "first": "No Limits",
+      "second": "Digital Marketing Agency"
+    },
+    "content": " ",
+    "image": "/img/slid/03.jpg"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "image": "/img/portfolio/mas/01.jpg",
+    "title": "Social Media Content",
+    "tags": ["We Handle Everything"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 2,
+    "image": "/img/portfolio/mas/02.jpg",
+    "title": "Web Design",
+    "tags": ["Results you will Love"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 3,
+    "image": "/img/portfolio/mas/03.jpg",
+    "title": "Print Design",
+    "tags": [ "Stand out with every pixel"],
+    "filterCategory": ["brand"]
+  },
+  {
+    "id": 4,
+    "image": "/img/portfolio/mas/04.jpg",
+    "title": "Package Design",
+    "tags": ["We handle Everything"],
+    "filterCategory": ["graphic"]
+  },
+  {
+    "id": 5,
+    "image": "/img/portfolio/mas/05.jpg",
+    "title": "Branding Strategy",
+    "tags": ["Results Youll love"],
+    "filterCategory": ["web"]
+  },
+  {
+    "id": 6,
+    "image": "/img/portfolio/mas/06.jpg",
+    "title": "Event Management",
+    "tags": ["We do it right"],
+    "filterCategory": ["brand"]
+  }
+  ,
+  {
+    "id": 7,
+    "image": "/img/portfolio/mas/06.jpg",
+    "title": "PR",
+    "tags": ["We Handle Everything"],
+    "filterCategory": ["brand"]
+  }
+  ,
+  {
+    "id": 8,
+    "image": "/img/portfolio/mas/06.jpg",
+    "title": "SEO",
+    "tags": ["Results youll Love"],
+    "filterCategory": ["brand"]
+  }
+  ,
+  {
+    "id": 7,
+    "image": "/img/portfolio/mas/06.jpg",
+    "title": "Mobile App Design",
+    "tags": ["Results youll Love"],
+    "filterCategory": ["brand"]
+  }
+]
